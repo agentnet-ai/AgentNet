@@ -4,10 +4,10 @@
 
 AgentNet reference implementations follow this execution path:
 
-1. **Capsulizer** ingests source material and produces capsule-ready records.
-2. **Registrar** issues node identity and manages canonical owner/lifecycle state.
-3. **Resolver** serves deterministic lookup and retrieval over registered data.
-4. **Orchestrator** composes resolver-backed outputs into end-user interaction flows.
+1. Capsulizer ingests source material and produces capsule-ready records.
+2. Registrar issues node identity and manages canonical owner/lifecycle state.
+3. Resolver serves deterministic lookup and retrieval over registered data.
+4. Orchestrator composes resolver-backed outputs into end-user interaction flows.
 
 ## Repository mapping
 

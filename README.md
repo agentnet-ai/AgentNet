@@ -1,21 +1,22 @@
 # AgentNet
 
-AgentNet defines the ANS standards and reference architecture for machine-readable publishing, identity, and resolution workflows.
+AgentNet is the specification landing repository for ANS standards and reference architecture documents.
 
-ANS Core v2.0 is the authoritative specification and is Final, Effective 2026-01-01.
+Status: Alpha / Reference Implementation
+Docs: https://www.agent-net.ai
+Org: https://github.com/agentnet-ai
+
+ANS Core v2.0 — Final — Effective 2026-01-01.
 
 ## Start Here
 
-Begin with the normative standard and then review implementation mapping:
+Begin with these existing documents in this repository:
 
 1. `standards/ANS-Core-v2.0.docx`
-2. `docs/README.md`
-3. `docs/architecture-map.md`
-4. `examples/README.md`
-
-## ANS Core v2.0
-
-ANS Core v2.0 is the canonical source for protocol terminology, data model requirements, and interoperability rules. All reference implementations in the `agentnet-ai` organization are expected to align with this version.
+2. `standards/README.md`
+3. `docs/README.md`
+4. `docs/architecture-map.md`
+5. `examples/README.md`
 
 ## Related Repositories
 
@@ -25,7 +26,7 @@ ANS Core v2.0 is the canonical source for protocol terminology, data model requi
 - https://github.com/agentnet-ai/ant-resolver
 - https://github.com/agentnet-ai/ant-orchestrator
 
-## Contribution flow
+## Contributing
 
 - Open an issue to propose corrections, clarifications, or spec extensions.
 - Use pull requests for concrete draft changes with rationale and compatibility notes.
@@ -33,4 +34,4 @@ ANS Core v2.0 is the canonical source for protocol terminology, data model requi
 
 ## License
 
-Creative Commons Attribution 4.0 International (CC BY 4.0). See `LICENSE`.
+Creative Commons Attribution 4.0 International (CC BY 4.0). See `LICENSE` for details.
